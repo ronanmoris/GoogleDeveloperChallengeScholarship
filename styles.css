@@ -1,0 +1,33 @@
+.image {
+	width: 298px;
+	margin: 0;
+}
+.labels {
+	font-weight: bold;
+	padding: 0 0.3em 0 0.3em;
+}
+.information {
+	list-style-type: none;
+	padding: 1em;
+}
+.card {
+	border: 1px solid black;
+	background-color: lightblue;
+
+}
+.text {
+	border: 1px solid black;
+	margin: 1em;
+	padding: 0.5em;
+	background-color: lightgray;
+}
+body {
+	font-family: verdana, sans-serif;
+	width:300px;
+}
+h3 {
+	padding: 0 0 0 1em;
+}
+p {
+	padding: 0 1em 0 1em;
+}
